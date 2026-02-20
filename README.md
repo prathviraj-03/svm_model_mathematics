@@ -1,5 +1,7 @@
 # 🎓 Student Mathematical Performance Classification
 
+- LIVE LINK : [ Student Mathematical Performance Classification ](https://prathviraj-03-svm-model-mathematics-main-lwptwx.streamlit.app/)
+
 This project contains a Streamlit web application that predicts a student's mathematical performance based on their answers to a 14-question survey. The prediction is made by a pre-trained Support Vector Machine (SVM) model.
 
 ## 📋 Prerequisites
